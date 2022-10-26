@@ -1,4 +1,4 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V6⚜️<br></h1>
+<h1 align="center">⚜️FAKE SER MD⚜️<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/NpXYnCh/Whats-App-Image-2022-10-10-at-10-37-16.jpg"
 
@@ -9,7 +9,7 @@
 
 1. Click [SCAN](https://replit.com/@Kaveesha2006/DARK-BOT-QR#) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/Kaveeshasithum/DARK-NERO-BOT-MD-/fork)
+2. Click [FORK](https://https://github.com/laluser666/LALU-SER/fork)
 
 2. After That Upload Session.json File
 
